@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "227817200816",
+    "project_id": "dating-ce409",
+    "storage_bucket": "dating-ce409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227817200816:android:c550f1e311a799569caf75",
+        "android_client_info": {
+          "package_name": "com.dating.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227817200816-rctn25f9dac99bp5e6bokc5k4vdr8m3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2tT4gedegQN9BXsv04_4mBmk-_zko_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227817200816-rctn25f9dac99bp5e6bokc5k4vdr8m3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227817200816:android:785543387d697b719caf75",
+        "android_client_info": {
+          "package_name": "com.dating.datingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227817200816-oeo4jlnaqjqpipovtuak9s1k4a4ickd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dating.datingapplication",
+            "certificate_hash": "a394466f00f9d8495f06cad4b95826185ef719e7"
+          }
+        },
+        {
+          "client_id": "227817200816-rctn25f9dac99bp5e6bokc5k4vdr8m3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2tT4gedegQN9BXsv04_4mBmk-_zko_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227817200816-rctn25f9dac99bp5e6bokc5k4vdr8m3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
